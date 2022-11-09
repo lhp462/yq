@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.3f0af611bfeaa4781b209534e7732f40.js"
+  "precache-manifest.48babd51e3e93ab93e44bcc51f44e143.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "real-qingshui-pass"});

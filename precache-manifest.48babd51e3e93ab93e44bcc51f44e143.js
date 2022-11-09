@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "apple-touch-icon.png"
   },
   {
-    "revision": "6d3c905469a808bba8e5",
-    "url": "css/app.47ea06f3.css"
+    "revision": "242aa02fd3747f161e20",
+    "url": "css/app.4a3bfa7a.css"
   },
   {
-    "revision": "fc86f5fc4e503e0c9482",
-    "url": "css/chunk-vendors.09b7d566.css"
+    "revision": "fdd58de9731d3f186db2",
+    "url": "css/chunk-vendors.181da7e7.css"
   },
   {
     "revision": "3f3d05a292cbcb10d4dbab862f5347bd",
@@ -120,16 +120,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/wechat.03883c8e.svg"
   },
   {
-    "revision": "41239b3a65dc9869c8bd30abb7c22b05",
+    "revision": "c378263664f5c9d25666cc6a91fe6aa7",
     "url": "index.html"
   },
   {
-    "revision": "6d3c905469a808bba8e5",
-    "url": "js/app.18b35499.js"
+    "revision": "242aa02fd3747f161e20",
+    "url": "js/app.bf4f4f82.js"
   },
   {
-    "revision": "fc86f5fc4e503e0c9482",
-    "url": "js/chunk-vendors.d37e5b54.js"
+    "revision": "fdd58de9731d3f186db2",
+    "url": "js/chunk-vendors.6856af05.js"
   },
   {
     "revision": "3d5e3315eafeaf172574ce2b9ed94e7c",
